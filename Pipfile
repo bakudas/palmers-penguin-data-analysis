@@ -10,6 +10,7 @@ pipreqs = "*"
 pandas = "*"
 seaborn = "*"
 altair = "*"
+watchdog = "*"
 
 [dev-packages]
 
